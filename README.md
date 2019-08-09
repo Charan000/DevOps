@@ -1,4 +1,4 @@
-# DevOps
+# Spectrum Auction Data Visualization Website
 
 SPE Project
 Spectrum Vizualization.
